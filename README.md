@@ -1,5 +1,5 @@
 ## **Project setup Guide**
-### **Step 1: Clone the project from [github](https://github.com/Rajnish2001/Serializer.git)**
+### **Step 1: Clone the project from [github](https://github.com/shramarajnishkumar/social_auth.git)**
 ### **Step 2: open the project in your IDE**
 ### **Step 3: create the virtual environment using the following command**
 ### **Step 4: python3 -m venv <your-environment-name>**
