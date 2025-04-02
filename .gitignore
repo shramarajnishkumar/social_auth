@@ -1,0 +1,13 @@
+.env
+db.sqlite3
+client_secret_985658929471-56p1mkao4hkeqn40q5psepr0mdia8o49.apps.googleusercontent.com.json
+facebook_api/migrations/__pycache__
+facebook_api/__pycache__
+github_api/__pycache__
+github_api/migrations/__pycache__
+google_api/__pycache__
+google_api/migrations/__pycache__
+google_auth/__pycache__
+linkedin_api/__pycache__
+linkedin_api/migrations/__pycache__
+utils/__pycache__
